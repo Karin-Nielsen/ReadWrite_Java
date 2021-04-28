@@ -1,6 +1,6 @@
 # ReadWrite_Java
 
-Java program to read from input file and write to output file.
+Java program to read from input file and write to output file. Uses java.io packages File, FileInputStream, and FileOuputStream to do so.
 
 
 **Java Files:** 
